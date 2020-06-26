@@ -1,3 +1,3 @@
-git add -A 
-git commit -m "new"
-git push --force-with-lease origin master
+git add -A
+git commit -m "mew"
+git push --force-with-lease=master
